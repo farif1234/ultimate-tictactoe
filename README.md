@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-![](https://imgur.com/Dd2YNlK)
+![](utt-screenshot.png)
 
 
 ## Tech Stack
