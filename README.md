@@ -3,7 +3,9 @@
 
 9 x 9 version of tic tac toe, where your opponent's move determines your next move. 
 
+## Demo link
 
+Play game here: https://arif-ultimate-tictactoe.herokuapp.com/
 
 
 ## Screenshots
